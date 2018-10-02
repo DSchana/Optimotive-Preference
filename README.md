@@ -3,3 +3,8 @@ The preference system recognizes the user's face and outputting all preferences 
 
 ## Demo
 https://www.youtube.com/watch?v=sndnqQmYW-A
+
+
+
+
+
